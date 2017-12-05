@@ -1,9 +1,9 @@
 {
 	"posts": [{
-		"FundID": "175",
-		"FundCode": "ASP-AITF2Y5",
-		"FundName": "กองทุนเปิดแอสเซทพลัสเอไอเทิร์มฟันด์ 2Y5",
-		"NAV": 10.658
+		"FundID": "2",
+		"FundCode": "ASP-LTF",
+		"FundName": "กองทุนเปิดแอสเซทพลัสหุ้นระยะยาว",
+		"NAV": 18.3137
 	},
 	{
 		"FundID": "165",
@@ -24,22 +24,22 @@
 		"NAV": 10.4391
 	}],
 	"details": [{
-		"id": 165,
-		"FundID": "165",
-		"FundCode": "ASP-AITF3Y1",
-		"FundName": "กองทุนเปิดแอสเซทพลัสเอไอเทิร์มฟันด์ 3Y1",
-		"FundAlternateName": "Asset Plus AI Term Fund 3Y1",
-		"RegistrationNo": "MF0261/2558",
-		"RegistrationDate": "4/28/2015",
-		"RegistrationAmount": "893987928.9",
-		"FundTaxID": "9.94001E+11",
-		"FundType": "Mutual_Fund",
-		"FundPolicy": "ตราสารหนี้ที่มีกำหนดอายุโครงการ",
+		"id": 2,
+		"FundID": "2",
+		"FundCode": "ASP-LTF",
+		"FundName": "กองทุนเปิดแอสเซทพลัสหุ้นระยะยาว",
+		"FundAlternateName": "Asset Plus Long Term Equity Fund",
+		"RegistrationNo": "",
+		"RegistrationDate": "11/23/2004",
+		"RegistrationAmount": "284925420.69",
+		"FundTaxID": "",
+		"FundType": "LTF",
+		"FundPolicy": "ตราสารแห่งทุนแบบรับซื้อคืนหน่วยลงทุนเป็นช่วงเวลา",
 		"FundDuration": "Closed_End",
 		"FundAuthorizedDate": "1/1/2010",
 		"FundStartDate": "4/28/2015",
 		"FundExpiryDate": "5/2/2018",
-		"FundRiskLevel": 7
+		"FundRiskLevel": 6
 	},
 	{
 		"id": 175,
