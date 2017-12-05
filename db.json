@@ -23,8 +23,7 @@
 		"FundName": "กองทุนเปิดแอสเซทพลัสเอไอเทิร์มฟันด์ 2Y7",
 		"NAV": 10.4391
 	}],
-	"details": [
-	{
+	"details": [{
 		"id": 165,
 		"FundID": "165",
 		"FundCode": "ASP-AITF3Y1",
@@ -39,7 +38,8 @@
 		"FundDuration": "Closed_End",
 		"FundAuthorizedDate": "1/1/2010",
 		"FundStartDate": "4/28/2015",
-		"FundExpiryDate": "5/2/2018"
+		"FundExpiryDate": "5/2/2018",
+		"FundRiskLevel": 4
 	},
 	{
 		"id": 175,
@@ -56,13 +56,43 @@
 		"FundDuration": "Closed_End",
 		"FundAuthorizedDate": "3/10/2016",
 		"FundStartDate": "3/16/2016",
-		"FundExpiryDate": "3/19/2018"
+		"FundExpiryDate": "3/19/2018",
+		"FundRiskLevel": 4
 	},
 	{
-		"id": 178
+		"id": 178,
+		"FundID": "178",
+		"FundCode": "ASP-AITF2Y6",
+		"FundName": "กองทุนเปิดแอสเซทพลัสเอไอเทิร์มฟันด์ 2Y6",
+		"FundAlternateName": "Asset Plus AI Term Fund 2Y6",
+		"RegistrationNo": "MF0315/2559",
+		"RegistrationDate": "7/27/2016",
+		"RegistrationAmount": "845559060.7",
+		"FundTaxID": "9.94001E+11",
+		"FundType": "Mutual_Fund",
+		"FundPolicy": "ตราสารหนี้ที่มีกำหนดอายุโครงการ",
+		"FundDuration": "Closed_End",
+		"FundAuthorizedDate": "7/15/2016",
+		"FundStartDate": "7/27/2016",
+		"FundExpiryDate": "7/30/2018",
+		"FundRiskLevel": 4
 	},
 	{
-		"id": 179
-	}
-	]
+		"id": 179,
+		"FundID": "179",
+		"FundCode": "ASP-AITF2Y7",
+		"FundName": "กองทุนเปิดแอสเซทพลัสเอไอเทิร์มฟันด์ 2Y7",
+		"FundAlternateName": "Asset Plus AI Term Fund 2Y7",
+		"RegistrationNo": "MF0371/2559",
+		"RegistrationDate": "8/30/2016",
+		"RegistrationAmount": "1082748493",
+		"FundTaxID": "9.94001E+11",
+		"FundType": "Mutual_Fund",
+		"FundPolicy": "ตราสารหนี้ที่มีกำหนดอายุโครงการ",
+		"FundDuration": "Closed_End",
+		"FundAuthorizedDate": "8/17/2016",
+		"FundStartDate": "8/30/2016",
+		"FundExpiryDate": "8/30/2018",
+		"FundRiskLevel": 4
+	}]
 }
