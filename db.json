@@ -1,116 +1,406 @@
 {
-	"posts": {
-		"FundID": 3,
+	"posts": 	[
+	{
+		"FundID": "1",
+		"FundCode": "ANANT",
+		"FundName": "กองทุนเปิดอนันตทรัพย์"
+	},
+	{
+		"FundID": "2",
+		"FundCode": "ASP-LTF",
+		"FundName": "กองทุนเปิดแอสเซทพลัสหุ้นระยะยาว"
+	},
+	{
+		"FundID": "3",
 		"FundCode": "ASP-IDF",
-		"FundName": "กองทุนเปิดแอสเซทพลัสสถาบันปันผล",
-		"FundAlternateName": "Asset Plus  Institution Dividend Fund",
-		"RegistrationNo": "025/2544",
-		"RegistrationDate": "2001-08-21T00:00:00.000Z",
-		"RegistrationAmount": 3000000000,
-		"FundTaxID": 994000141408,
-		"FundType": "Mutual_Fund",
-		"FundPolicy": "เน้นลงทุนในตราสารหนี้",
-		"FundDuration": "Opened_End",
-		"FundAuthorizedDate": "2010-01-01T00:00:00.000Z",
-		"FundStartDate": "2004-10-05T00:00:00.000Z",
-		"FundExpiryDate": "2014-06-02T00:00:00.000Z",
-		"IPOFromDate": "2001-08-20T00:00:00.000Z",
-		"IPOToDate": "2001-08-20T00:00:00.000Z",
-		"MinimumHoldingUnit": 0,
-		"MinimumHoldingAmount": 0,
-		"BackEndFee": 0,
-		"FrontEndFee": 0,
-		"SwitchInFee": 0,
-		"SwitchOutFee": 0,
-		"ExitFee": 0,
-		"TransferFee": 0,
-		"TransferFeeUnit": 0,
-		"FundOwnerID": 1,
-		"NavDays": 0,
-		"SubscriptionDays": 0,
-		"RedemptionDays": 1,
-		"MinimumIPOAmount": 1000000,
-		"MinimumBuyAmount": 1000000,
-		"MinimumSellAmount": 0,
-		"MinimumSwitchInUnit": 0,
-		"MinimumSwitchOutUnit": 0,
-		"SubscriptionCriteria": "Amount_Only",
-		"RedemptionCriteria": "Unit_And_Amount",
-		"ClosingAccountDate": "2010-01-01T00:00:00.000Z",
-		"CutOffTime": "2010-01-01T15:30:00.000Z",
-		"InterfaceCode": "ASP-IDF",
-		"AutoRedemptionToFundID": 0,
-		"FeePaidTo": null,
-		"FundUDF_ID1": 0,
-		"FundUDF_Code1": 4,
-		"FundUDF_Name1": null,
-		"FundTxReferenceNo": null,
-		"FundTxType": null,
-		"LastUpdatedBy": 0,
-		"LastUpdated": "2016-01-26T11:54:47.000Z",
-		"Trustee": "บมจ. ธนาคารกสิกรไทย",
-		"HoldingLimit": 33.333333,
-		"FeeCalculationFlag": "Use_NAV_without_Fee",
-		"FrontEndFeeID": 0,
-		"FrontEndBrokerageFeeID": 0,
-		"BackEndFeeID": 0,
-		"BackEndBrokerageFeeID": 0,
-		"SwitchInFeeID": 0,
-		"SwitchOutFeeID": 0,
-		"InitialNAV": 10,
-		"IPOSubscriptionFee": 0,
-		"MinimumSellUnit": 0,
-		"FrontEndBrokerageFee": 0,
-		"BackEndBrokerageFee": 0,
-		"RedemptionFeeWaivePeriod": 0,
-		"autoGenUnitHolderNo": 0,
-		"isDelayedNAV": 0,
-		"WithholdingTaxOnFee": 0,
-		"autoGenOrderReferenceNo": 0,
-		"CalendarID": 1,
-		"SwitchingDays": 2,
-		"SwitchingCalculation": "Use_Switching_Days",
-		"FeeIncludeVAT": 0,
-		"FundPaymentMethod": "Both",
-		"FundRiskLevel": 4,
-		"AllowUnitLink": 0,
-		"AllowPromotion": 0,
-		"RedemptionCutOffTime": "2010-01-01T15:30:00.000Z",
-		"GreenShoe": 0,
-		"FundCostBasis": "Average",
-		"FundSubType": null,
-		"FundTerm": 0,
-		"isFIF": 0,
-		"FundPolicyID": 6,
-		"TrusteeID": 4,
-		"ReferenceFundID": 0,
-		"allowCreditCard": 0,
-		"FundUDF_Flag1": 0,
-		"RedemptionDayCalculation": null,
-		"IVRCode": null,
-		"FundSwitchingGroupID": 16,
-		"RedemptionEffectiveDay": 0,
-		"allowInternetTrading": 0,
-		"RedemptionPayInDays": 1,
-		"SwitchingPayInDays": 1,
-		"SwitchingFlag": 1,
-		"allowStandingOrder": 0,
-		"MinimumStandingOrderAmount": 0,
-		"FundURL": null,
-		"ExpectedReturn": 0,
-		"FundUDF_Flag2": 1,
-		"FundRemark": null,
-		"FundInstructionRemark": null,
-		"UpdatedBy": 0,
-		"ManagementFee": 0.2,
-		"ManagementFeeID": 0,
-		"FATCAID": null,
-		"GIIN": null,
-		"useSubscriptionDates": 0,
-		"useRedemptionDates": 0,
-		"RegistrarFeeID": 0
-		
+		"FundName": "กองทุนเปิดแอสเซทพลัสสถาบันปันผล"
+	},
+	{
+		"FundID": "4",
+		"FundCode": "ASP",
+		"FundName": "กองทุนเปิดแอสเซท พลัส ตราสารหนี้"
+	},
+	{
+		"FundID": "5",
+		"FundCode": "ASP-DI",
+		"FundName": "กองทุนเปิดแอสเซท พลัส ตราสารหนี้ปันผล"
+	},
+	{
+		"FundID": "6",
+		"FundCode": "ASP-MDF",
+		"FundName": "กองทุนเปิดแอสเซทพลัสสร้างกำไรปันผล"
+	},
+	{
+		"FundID": "7",
+		"FundCode": "ASP-GDF",
+		"FundName": "กองทุนเปิดแอสเซทพลัสกำไรปันผล"
+	},
+	{
+		"FundID": "8",
+		"FundCode": "ASP-FRF",
+		"FundName": "กองทุนเปิดแอสเซทพลัสตราสารหนี้เพื่อการเลี้ยงชีพ"
+	},
+	{
+		"FundID": "9",
+		"FundCode": "ASP-ERF",
+		"FundName": "กองทุนเปิดแอสเซทพลัสตราสารทุนเพื่อการเลี้ยงชีพ"
+	},
+	{
+		"FundID": "10",
+		"FundCode": "ASP-MRF",
+		"FundName": "กองทุนเปิดแอสเซทพลัสหุ้นผสมตราสารหนี้เพื่อการเลี้ยงชีพ"
+	},
+	{
+		"FundID": "11",
+		"FundCode": "ASP-MMF1",
+		"FundName": "กองทุนเปิดแอสเซทพลัสทวีเงินออม1"
+	},
+	{
+		"FundID": "12",
+		"FundCode": "ASP-HGF",
+		"FundName": "กองทุนเปิดแอสเซทพลัสสร้างกำไร"
+	},
+	{
+		"FundID": "13",
+		"FundCode": "ASP-TGF",
+		"FundName": "กองทุนรวมแอสเซทพลัสทวีกำไร 20/20"
+	},
+	{
+		"FundID": "14",
+		"FundCode": "ASP-MMF2",
+		"FundName": "กองทุนเปิดแอสเซทพลัสทวีเงินออม 2"
+	},
+	{
+		"FundID": "15",
+		"FundCode": "ASP-CPF",
+		"FundName": "กองทุนรวมแอสเซทพลัสคุ้มครองเงินต้น 95%"
+	},
+	{
+		"FundID": "16",
+		"FundCode": "ASP-IPF",
+		"FundName": "กองทุนเปิดแอสเซทพลัสตราสารหนี้ทวีค่า"
+	},
+	{
+		"FundID": "17",
+		"FundCode": "ASP-IPF2",
+		"FundName": "กองทุนเปิดแอสเซทพลัสตราสารหนี้ทวีค่า 2"
+	},
+	{
+		"FundID": "18",
+		"FundCode": "ASP2",
+		"FundName": "กองทุนเปิดแอสเซทพลัสตราสารหนี้ 2"
+	},
+	{
+		"FundID": "19",
+		"FundCode": "ASP-ARF1",
+		"FundName": "กองทุนเปิดแอสเซทพลัสตราสารหนี้คืนกำไร1"
+	},
+	{
+		"FundID": "20",
+		"FundCode": "ASP-SIF2",
+		"FundName": "กองทุนเปิดแอสเซทพลัสทรัพย์มั่นคง 2"
+	},
+	{
+		"FundID": "21",
+		"FundCode": "ASP-GAF",
+		"FundName": "กองทุนเปิดแอสเซทพลัสโกลบอลอัลโลเคชั่น"
+	},
+	{
+		"FundID": "22",
+		"FundCode": "ASP-SIF3",
+		"FundName": "กองทุนเปิดแอสเซทพลัสทรัพย์มั่นคง 3"
+	},
+	{
+		"FundID": "23",
+		"FundCode": "ASP-GBF",
+		"FundName": "กองทุนเปิดแอสเซทพลัสพันธบัตรปันผล"
+	},
+	{
+		"FundID": "24",
+		"FundCode": "ASP-DI2",
+		"FundName": "กองทุนเปิดแอสเซทพลัสตราสารหนี้ปันผล 2"
+	},
+	{
+		"FundID": "25",
+		"FundCode": "ASP-SIF1",
+		"FundName": "กองทุนเปิดแอสเซทพลัสทรัพย์มั่นคง 1"
+	},
+	{
+		"FundID": "26",
+		"FundCode": "ASP-CTF",
+		"FundName": "กองทุนเปิดแอสเซทพลัสทวีทรัพย์"
+	},
+	{
+		"FundID": "27",
+		"FundCode": "ASP-SIF4",
+		"FundName": "กองทุนเปิดแอสเซทพลัสทรัพย์มั่นคง 4"
+	},
+	{
+		"FundID": "28",
+		"FundCode": "GBF-3M1",
+		"FundName": "กองทุนเปิดพันธบัตรคุ้มครองเงินต้น 3M1"
+	},
+	{
+		"FundID": "29",
+		"FundCode": "ASP-NGF",
+		"FundName": "กองทุนเปิดแอสเซทพลัสนิปปอนโกรท"
+	},
+	{
+		"FundID": "30",
+		"FundCode": "ARF-12M1",
+		"FundName": "กองทุนเปิดพันธบัตรคุ้มครองเงินต้นคืนกำไร 12M1"
+	},
+	{
+		"FundID": "31",
+		"FundCode": "GBF-6M1",
+		"FundName": "กองทุนเปิดพันธบัตรคุ้มครองเงินต้น 6M1"
+	},
+	{
+		"FundID": "32",
+		"FundCode": "ASP-SIF5",
+		"FundName": "กองทุนเปิดแอสเซทพลัสทรัพย์มั่นคง 5"
+	},
+	{
+		"FundID": "33",
+		"FundCode": "ASP-GLTF",
+		"FundName": "กองทุนเปิดแอสเซทพลัสหุ้นระยะยาวทวีกำไร"
+	},
+	{
+		"FundID": "34",
+		"FundCode": "ASP-SIF6",
+		"FundName": "กองทุนเปิดแอสเซทพลัสทรัพย์มั่นคง 6"
+	},
+	{
+		"FundID": "35",
+		"FundCode": "SIF-6M1",
+		"FundName": "กองทุนเปิดแอสเซทพลัสทรัพย์มั่นคง 6M1"
+	},
+	{
+		"FundID": "36",
+		"FundCode": "SIF-12M3",
+		"FundName": "กองทุนเปิดแอสเซทพลัสทรัพย์มั่นคง 12M3"
+	},
+	{
+		"FundID": "37",
+		"FundCode": "ASP-6M7",
+		"FundName": "กองทุนเปิดแอสเซทพลัสตราสารหนี้ 6M7"
+	},
+	{
+		"FundID": "38",
+		"FundCode": "FIF-FIXED6M8",
+		"FundName": "กองทุนเปิดเอฟไอเอฟตราสารหนี้ 6M8"
+	},
+	{
+		"FundID": "39",
+		"FundCode": "FIF-FIXED3M8",
+		"FundName": "กองทุนเปิดเอฟไอเอฟตราสารหนี้ 3M8"
+	},
+	{
+		"FundID": "40",
+		"FundCode": "FIF-FIXED3M9",
+		"FundName": "กองทุนเปิดเอฟไอเอฟตราสารหนี้ 3M9"
+	},
+	{
+		"FundID": "41",
+		"FundCode": "FIF-FIXED3M10",
+		"FundName": "กองทุนเปิดเอฟไอเอฟตราสารหนี้ 3M10"
+	},
+	{
+		"FundID": "42",
+		"FundCode": "ASP-ASIAN",
+		"FundName": "กองทุนเปิดแอสเซทพลัสเอเชี่ยนสเปเชียลซิททูเอชั่นส์"
+	},
+	{
+		"FundID": "43",
+		"FundCode": "FIF-FIXED6M11",
+		"FundName": "กองทุนเปิดเอฟไอเอฟตราสารหนี้ 6M11"
+	},
+	{
+		"FundID": "44",
+		"FundCode": "ASP-BRIC",
+		"FundName": "กองทุนเปิดแอสเซทพลัสบริค"
+	},
+	{
+		"FundID": "45",
+		"FundCode": "SVAF",
+		"FundName": "กองทุนเปิดสตรัคเจอร์แวลูเอเซีย"
+	},
+	{
+		"FundID": "46",
+		"FundCode": "ASP-P6M2",
+		"FundName": "กองทุนเปิดแอสเซทพลัสพรีเมี่ยม 6M2"
+	},
+	{
+		"FundID": "47",
+		"FundCode": "ASP-PREMIER",
+		"FundName": "กองทุนเปิดแอสเซทพลัสพรีเมียร์"
+	},
+	{
+		"FundID": "48",
+		"FundCode": "FIF-FIXED12M9",
+		"FundName": "กองทุนเปิดเอฟไอเอฟตราสารหนี้ 12M9"
+	},
+	{
+		"FundID": "49",
+		"FundCode": "ASP-PDI",
+		"FundName": "กองทุนเปิดแอสเซทพลัสพรีเมี่ยมปันผล"
+	},
+	{
+		"FundID": "50",
+		"FundCode": "ASP-P6M3",
+		"FundName": "กองทุนเปิดแอสเซทพลัสพรีเมี่ยม 6M3"
+	},
+	{
+		"FundID": "51",
+		"FundCode": "ASP-P12M",
+		"FundName": "กองทุนเปิดแอสเซทพลัสพรีเมี่ยม 12M"
+	},
+	{
+		"FundID": "52",
+		"FundCode": "FIF-FIXED6M4",
+		"FundName": "กองทุนเปิดเอฟไอเอฟตราสารหนี้ 6M4"
+	},
+	{
+		"FundID": "53",
+		"FundCode": "FIF-FIXED6M",
+		"FundName": "กองทุนเปิดเอฟไอเอฟตราสารหนี้ 6M"
+	},
+	{
+		"FundID": "54",
+		"FundCode": "FIF-FIXED6M2",
+		"FundName": "กองทุนเปิดเอฟไอเอฟตราสารหนี้ 6M2"
+	},
+	{
+		"FundID": "55",
+		"FundCode": "FIF-FIXED3M1",
+		"FundName": "กองทุนเปิดเอฟไอเอฟตราสารหนี้ 3M1"
+	},
+	{
+		"FundID": "56",
+		"FundCode": "ASP-STAR",
+		"FundName": "กองทุนเปิดแอสเซทพลัสสตาร์ฟิกซ์อินคัม"
+	},
+	{
+		"FundID": "57",
+		"FundCode": "ASP-MMF4",
+		"FundName": "กองทุนเปิดแอสเซทพลัสทวีเงินออม 4"
+	},
+	{
+		"FundID": "58",
+		"FundCode": "ASP-SSF18/18",
+		"FundName": "กองทุนเปิดแอสเซทพลัสซีเล็คทีฟสต็อกส์ 18/18"
+	},
+	{
+		"FundID": "59",
+		"FundCode": "ASP-ACFIXED1",
+		"FundName": "กองทุนเปิดแอสเซทพลัสแอ็คทีฟตราสารหนี้ 1"
+	},
+	{
+		"FundID": "60",
+		"FundCode": "ASP-ACGOV1",
+		"FundName": "กองทุนเปิดแอสเซทพลัสแอ็คทีฟพันธบัตร 1"
+	},
+	{
+		"FundID": "61",
+		"FundCode": "ASP-ACFIXED2",
+		"FundName": "กองทุนเปิดแอสเซทพลัสแอ็คทีฟตราสารหนี้ 2"
+	},
+	{
+		"FundID": "62",
+		"FundCode": "ASP-ACGOV2",
+		"FundName": "กองทุนเปิดแอสเซทพลัสแอ็คทีฟพันธบัตร 2"
+	},
+	{
+		"FundID": "63",
+		"FundCode": "ASP-ACFIXED3",
+		"FundName": "กองทุนเปิดแอสเซทพลัสแอ็คทีฟตราสารหนี้ 3"
+	},
+	{
+		"FundID": "64",
+		"FundCode": "ASP-TFIXED7",
+		"FundName": "กองทุนเปิดแอสเซทพลัสตราสารหนี้ทวีทรัพย์ 7"
+	},
+	{
+		"FundID": "65",
+		"FundCode": "ASP-ACGOV4",
+		"FundName": "กองทุนเปิดแอสเซทพลัสแอ็คทีฟพันธบัตร 4"
+	},
+	{
+		"FundID": "66",
+		"FundCode": "ASP-ACFIXED4",
+		"FundName": "กองทุนเปิดแอสเซทพลัสแอ็คทีฟตราสารหนี้ 4"
+	},
+	{
+		"FundID": "67",
+		"FundCode": "ASP-ACFIXED5",
+		"FundName": "กองทุนเปิดแอสเซทพลัสแอ็คทีฟตราสารหนี้ 5"
+	},
+	{
+		"FundID": "68",
+		"FundCode": "ASP-ACGOV5",
+		"FundName": "กองทุนเปิดเแอสเซทพลัสแอ็คทีฟพันธบัตร 5"
+	},
+	{
+		"FundID": "69",
+		"FundCode": "ASP-ACFIXED6",
+		"FundName": "กองทุนเปิดแอสเซทพลัสแอ็คทีฟตราสารหนี้ 6"
+	},
+	{
+		"FundID": "70",
+		"FundCode": "ASP-ACFIXED7",
+		"FundName": "กองทุนเปิดแอสเซทพลัสแอ็คทีฟตราสารหนี้ 7"
+	},
+	{
+		"FundID": "71",
+		"FundCode": "ASP-SMART",
+		"FundName": "กองทุนเปิดแอสเซทพลัสสมาร์ท"
+	},
+	{
+		"FundID": "72",
+		"FundCode": "ASP-P2Y",
+		"FundName": "กองทุนเปิดแอสเซทพลัสพรีเมี่ยมตราสารหนี้ 2Y"
+	},
+	{
+		"FundID": "73",
+		"FundCode": "ASP-TFIXED8",
+		"FundName": "กองทุนเปิดแอสเซทพลัสตราสารหนี้ทวีทรัพย์ 8"
+	},
+	{
+		"FundID": "74",
+		"FundCode": "ACFIF3",
+		"FundName": "กองทุนเปิดแอ็คทีฟเอฟไอเอฟ 3"
+	},
+	{
+		"FundID": "75",
+		"FundCode": "ACFIF4",
+		"FundName": "กองทุนเปิดแอ็คทีฟเอฟไอเอฟ 4"
+	},
+	{
+		"FundID": "76",
+		"FundCode": "ASP-OIL",
+		"FundName": "กองทุนเปิดแอสเซทพลัสออยล์"
+	},
+	{
+		"FundID": "77",
+		"FundCode": "ASP-GOLD",
+		"FundName": "กองทุนเปิดแอสเซทพลัสโกลด์"
+	},
+	{
+		"FundID": "78",
+		"FundCode": "ASP-TFIXED4",
+		"FundName": "กองทุนเปิดแอสเซทพลัสตราสารหนี้ทวีทรัพย์ 4"
+	},
+	{
+		"FundID": "79",
+		"FundCode": "ASP-S&P500",
+		"FundName": "กองทุนเปิดแอสเซทพลัสเอสแอนด์พี 500"
+	},
+	{
+		"FundID": "80",
+		"FundCode": "ASP-TFIXED5",
+		"FundName": "กองทุนเปิดแอสเซทพลัสตราสารหนี้ทวีทรัพย์ 5"
 	}
+]
 }	
 	
 	
