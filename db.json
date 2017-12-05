@@ -1,152 +1,150 @@
 
 {
-	"posts": 	[
-	{
-		"FundID": "2",
-		"FundCode": "ASP-LTF",
-		"FundName": "กองทุนเปิดแอสเซทพลัสหุ้นระยะยาว"
-	},
-	{
-		"FundID": "3",
-		"FundCode": "ASP-IDF",
-		"FundName": "กองทุนเปิดแอสเซทพลัสสถาบันปันผล"
-	},
-	{
-		"FundID": "4",
-		"FundCode": "ASP",
-		"FundName": "กองทุนเปิดแอสเซท พลัส ตราสารหนี้"
-	},
-	{
-		"FundID": "5",
-		"FundCode": "ASP-DI",
-		"FundName": "กองทุนเปิดแอสเซท พลัส ตราสารหนี้ปันผล"
-	},
-	{
-		"FundID": "6",
-		"FundCode": "ASP-MDF",
-		"FundName": "กองทุนเปิดแอสเซทพลัสสร้างกำไรปันผล"
-	},
-	{
-		"FundID": "7",
-		"FundCode": "ASP-GDF",
-		"FundName": "กองทุนเปิดแอสเซทพลัสกำไรปันผล"
-	},
-	{
-		"FundID": "8",
-		"FundCode": "ASP-FRF",
-		"FundName": "กองทุนเปิดแอสเซทพลัสตราสารหนี้เพื่อการเลี้ยงชีพ"
-	},
-	{
-		"FundID": "9",
-		"FundCode": "ASP-ERF",
-		"FundName": "กองทุนเปิดแอสเซทพลัสตราสารทุนเพื่อการเลี้ยงชีพ"
-	},
-	{
-		"FundID": "10",
-		"FundCode": "ASP-MRF",
-		"FundName": "กองทุนเปิดแอสเซทพลัสหุ้นผสมตราสารหนี้เพื่อการเลี้ยงชีพ"
-	},
-	{
-		"FundID": "11",
-		"FundCode": "ASP-MMF1",
-		"FundName": "กองทุนเปิดแอสเซทพลัสทวีเงินออม1"
-	},
-	{
-		"FundID": "12",
-		"FundCode": "ASP-HGF",
-		"FundName": "กองทุนเปิดแอสเซทพลัสสร้างกำไร"
-	},
-	{
-		"FundID": "13",
-		"FundCode": "ASP-TGF",
-		"FundName": "กองทุนรวมแอสเซทพลัสทวีกำไร 20/20"
-	},
-	{
-		"FundID": "14",
-		"FundCode": "ASP-MMF2",
-		"FundName": "กองทุนเปิดแอสเซทพลัสทวีเงินออม 2"
-	},
-	{
-		"FundID": "15",
-		"FundCode": "ASP-CPF",
-		"FundName": "กองทุนรวมแอสเซทพลัสคุ้มครองเงินต้น 95%"
-	},
-	{
-		"FundID": "16",
-		"FundCode": "ASP-IPF",
-		"FundName": "กองทุนเปิดแอสเซทพลัสตราสารหนี้ทวีค่า"
-	},
-	{
-		"FundID": "17",
-		"FundCode": "ASP-IPF2",
-		"FundName": "กองทุนเปิดแอสเซทพลัสตราสารหนี้ทวีค่า 2"
-	},
-	{
-		"FundID": "18",
-		"FundCode": "ASP2",
-		"FundName": "กองทุนเปิดแอสเซทพลัสตราสารหนี้ 2"
-	},
-	{
-		"FundID": "19",
-		"FundCode": "ASP-ARF1",
-		"FundName": "กองทุนเปิดแอสเซทพลัสตราสารหนี้คืนกำไร1"
-	},
-	{
-		"FundID": "20",
-		"FundCode": "ASP-SIF2",
-		"FundName": "กองทุนเปิดแอสเซทพลัสทรัพย์มั่นคง 2"
-	},
-	{
-		"FundID": "21",
-		"FundCode": "ASP-GAF",
-		"FundName": "กองทุนเปิดแอสเซทพลัสโกลบอลอัลโลเคชั่น"
-	},
-	{
-		"FundID": "22",
-		"FundCode": "ASP-SIF3",
-		"FundName": "กองทุนเปิดแอสเซทพลัสทรัพย์มั่นคง 3"
-	},
-	{
-		"FundID": "23",
-		"FundCode": "ASP-GBF",
-		"FundName": "กองทุนเปิดแอสเซทพลัสพันธบัตรปันผล"
-	},
-	{
-		"FundID": "24",
-		"FundCode": "ASP-DI2",
-		"FundName": "กองทุนเปิดแอสเซทพลัสตราสารหนี้ปันผล 2"
-	},
-	{
-		"FundID": "25",
-		"FundCode": "ASP-SIF1",
-		"FundName": "กองทุนเปิดแอสเซทพลัสทรัพย์มั่นคง 1"
-	},
-	{
-		"FundID": "26",
-		"FundCode": "ASP-CTF",
-		"FundName": "กองทุนเปิดแอสเซทพลัสทวีทรัพย์"
-	},
-	{
-		"FundID": "27",
-		"FundCode": "ASP-SIF4",
-		"FundName": "กองทุนเปิดแอสเซทพลัสทรัพย์มั่นคง 4"
-	},
-	{
-		"FundID": "28",
-		"FundCode": "GBF-3M1",
-		"FundName": "กองทุนเปิดพันธบัตรคุ้มครองเงินต้น 3M1"
-	},
-	{
-		"FundID": "29",
-		"FundCode": "ASP-NGF",
-		"FundName": "กองทุนเปิดแอสเซทพลัสนิปปอนโกรท"
-	},
-	{
-		"FundID": "30",
-		"FundCode": "ARF-12M1",
-		"FundName": "กองทุนเปิดพันธบัตรคุ้มครองเงินต้นคืนกำไร 12M1"
-	}
-]
+	"posts": 	[{
+	"FundID": "175",
+	"FundCode": "ASP-AITF2Y5",
+	"FundName": "กองทุนเปิดแอสเซทพลัสเอไอเทิร์มฟันด์ 2Y5"
+},
+{
+	"FundID": "165",
+	"FundCode": "ASP-AITF3Y1",
+	"FundName": "กองทุนเปิดแอสเซทพลัสเอไอเทิร์มฟันด์ 3Y1"
+},
+{
+	"FundID": "178",
+	"FundCode": "ASP-AITF2Y6",
+	"FundName": "กองทุนเปิดแอสเซทพลัสเอไอเทิร์มฟันด์ 2Y6"
+},
+{
+	"FundID": "179",
+	"FundCode": "ASP-AITF2Y7",
+	"FundName": "กองทุนเปิดแอสเซทพลัสเอไอเทิร์มฟันด์ 2Y7"
+},
+{
+	"FundID": "170",
+	"FundCode": "ASP-AITF3Y2",
+	"FundName": "กองทุนเปิดแอสเซทพลัสเอไอเทิร์มฟันด์ 3Y2"
+},
+{
+	"FundID": "180",
+	"FundCode": "ASP-AITF2Y8",
+	"FundName": "กองทุนเปิดแอสเซทพลัสเอไอเทิร์มฟันด์ 2Y8"
+},
+{
+	"FundID": "181",
+	"FundCode": "ASP-AITF2Y9",
+	"FundName": "กองทุนเปิดแอสเซทพลัสเอไอเทิร์มฟันด์ 2Y9"
+},
+{
+	"FundID": "176",
+	"FundCode": "ASP-AITF3Y3",
+	"FundName": "กองทุนเปิดแอสเซทพลัสเอไอเทิร์มฟันด์ 3Y3"
+},
+{
+	"FundID": "173",
+	"FundCode": "ASP-AITF5Y1",
+	"FundName": "กองทุนเปิดแอสเซทพลัสเอไอเทิร์มฟันด์ 5Y1"
+},
+{
+	"FundID": "2",
+	"FundCode": "ASP-LTF",
+	"FundName": "กองทุนเปิดแอสเซทพลัสหุ้นระยะยาว"
+},
+{
+	"FundID": "4",
+	"FundCode": "ASP",
+	"FundName": "กองทุนเปิดแอสเซท พลัส ตราสารหนี้"
+},
+{
+	"FundID": "7",
+	"FundCode": "ASP-GDF",
+	"FundName": "กองทุนเปิดแอสเซทพลัสกำไรปันผล"
+},
+{
+	"FundID": "8",
+	"FundCode": "ASP-FRF",
+	"FundName": "กองทุนเปิดแอสเซทพลัสตราสารหนี้เพื่อการเลี้ยงชีพ"
+},
+{
+	"FundID": "9",
+	"FundCode": "ASP-ERF",
+	"FundName": "กองทุนเปิดแอสเซทพลัสตราสารทุนเพื่อการเลี้ยงชีพ"
+},
+{
+	"FundID": "10",
+	"FundCode": "ASP-MRF",
+	"FundName": "กองทุนเปิดแอสเซทพลัสหุ้นผสมตราสารหนี้เพื่อการเลี้ยงชีพ"
+},
+{
+	"FundID": "11",
+	"FundCode": "ASP-MMF1",
+	"FundName": "กองทุนเปิดแอสเซทพลัสทวีเงินออม1"
+},
+{
+	"FundID": "14",
+	"FundCode": "ASP-MMF2",
+	"FundName": "กองทุนเปิดแอสเซทพลัสทวีเงินออม 2"
+},
+{
+	"FundID": "18",
+	"FundCode": "ASP2",
+	"FundName": "กองทุนเปิดแอสเซทพลัสตราสารหนี้ 2"
+},
+{
+	"FundID": "21",
+	"FundCode": "ASP-GAF",
+	"FundName": "กองทุนเปิดแอสเซทพลัสโกลบอลอัลโลเคชั่น"
+},
+{
+	"FundID": "29",
+	"FundCode": "ASP-NGF",
+	"FundName": "กองทุนเปิดแอสเซทพลัสนิปปอนโกรท"
+},
+{
+	"FundID": "33",
+	"FundCode": "ASP-GLTF",
+	"FundName": "กองทุนเปิดแอสเซทพลัสหุ้นระยะยาวทวีกำไร"
+},
+{
+	"FundID": "42",
+	"FundCode": "ASP-ASIAN",
+	"FundName": "กองทุนเปิดแอสเซทพลัสเอเชี่ยนสเปเชียลซิททูเอชั่นส์"
+},
+{
+	"FundID": "44",
+	"FundCode": "ASP-BRIC",
+	"FundName": "กองทุนเปิดแอสเซทพลัสบริค"
+},
+{
+	"FundID": "64",
+	"FundCode": "ASP-TFIXED7",
+	"FundName": "กองทุนเปิดแอสเซทพลัสตราสารหนี้ทวีทรัพย์ 7"
+},
+{
+	"FundID": "76",
+	"FundCode": "ASP-OIL",
+	"FundName": "กองทุนเปิดแอสเซทพลัสออยล์"
+},
+{
+	"FundID": "77",
+	"FundCode": "ASP-GOLD",
+	"FundName": "กองทุนเปิดแอสเซทพลัสโกลด์"
+},
+{
+	"FundID": "78",
+	"FundCode": "ASP-TFIXED4",
+	"FundName": "กองทุนเปิดแอสเซทพลัสตราสารหนี้ทวีทรัพย์ 4"
+},
+{
+	"FundID": "79",
+	"FundCode": "ASP-S&P500",
+	"FundName": "กองทุนเปิดแอสเซทพลัสเอสแอนด์พี 500"
+},
+{
+	"FundID": "80",
+	"FundCode": "ASP-TFIXED5",
+	"FundName": "กองทุนเปิดแอสเซทพลัสตราสารหนี้ทวีทรัพย์ 5"
+}]
 }	
 	
 	
