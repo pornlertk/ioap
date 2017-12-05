@@ -1,29 +1,67 @@
-
 {
-	"posts": 	[{
-	"FundID": "175",
-	"FundCode": "ASP-AITF2Y5",
-	"FundName": "กองทุนเปิดแอสเซทพลัสเอไอเทิร์มฟันด์ 2Y5",
-	"NAV": 10.658
-},
-{
-	"FundID": "165",
-	"FundCode": "ASP-AITF3Y1",
-	"FundName": "กองทุนเปิดแอสเซทพลัสเอไอเทิร์มฟันด์ 3Y1",
-	"NAV": 11.2721
-},
-{
-	"FundID": "178",
-	"FundCode": "ASP-AITF2Y6",
-	"FundName": "กองทุนเปิดแอสเซทพลัสเอไอเทิร์มฟันด์ 2Y6",
-	"NAV": 10.5131
-},
-{
-	"FundID": "179",
-	"FundCode": "ASP-AITF2Y7",
-	"FundName": "กองทุนเปิดแอสเซทพลัสเอไอเทิร์มฟันด์ 2Y7",
-	"NAV": 10.4391
-}]
-}	
-	
-	
+	"posts": [{
+		"FundID": "175",
+		"FundCode": "ASP-AITF2Y5",
+		"FundName": "กองทุนเปิดแอสเซทพลัสเอไอเทิร์มฟันด์ 2Y5",
+		"NAV": 10.658
+	},
+	{
+		"FundID": "165",
+		"FundCode": "ASP-AITF3Y1",
+		"FundName": "กองทุนเปิดแอสเซทพลัสเอไอเทิร์มฟันด์ 3Y1",
+		"NAV": 11.2721
+	},
+	{
+		"FundID": "178",
+		"FundCode": "ASP-AITF2Y6",
+		"FundName": "กองทุนเปิดแอสเซทพลัสเอไอเทิร์มฟันด์ 2Y6",
+		"NAV": 10.5131
+	},
+	{
+		"FundID": "179",
+		"FundCode": "ASP-AITF2Y7",
+		"FundName": "กองทุนเปิดแอสเซทพลัสเอไอเทิร์มฟันด์ 2Y7",
+		"NAV": 10.4391
+	}],
+	details: [{
+		"id": 165,
+		"FundID": "165",
+		"FundCode": "ASP-AITF3Y1",
+		"FundName": "กองทุนเปิดแอสเซทพลัสเอไอเทิร์มฟันด์ 3Y1",
+		"FundAlternateName": "Asset Plus AI Term Fund 3Y1",
+		"RegistrationNo": "MF0261/2558",
+		"RegistrationDate": "4/28/2015",
+		"RegistrationAmount": "893987928.9",
+		"FundTaxID": "9.94001E+11",
+		"FundType": "Mutual_Fund",
+		"FundPolicy": "ตราสารหนี้ที่มีกำหนดอายุโครงการ",
+		"FundDuration": "Closed_End",
+		"FundAuthorizedDate": "1/1/2010",
+		"FundStartDate": "4/28/2015",
+		"FundExpiryDate": "5/2/2018"
+	},
+	{
+		"id": 175,
+		"FundID": "175",
+		"FundCode": "ASP-AITF2Y5",
+		"FundName": "กองทุนเปิดแอสเซทพลัสเอไอเทิร์มฟันด์ 2Y5",
+		"FundAlternateName": "Asset Plus AI Term Fund 2Y5",
+		"RegistrationNo": "MF0108/2559",
+		"RegistrationDate": "3/16/2016",
+		"RegistrationAmount": "588913874.6",
+		"FundTaxID": "9.94001E+11",
+		"FundType": "Mutual_Fund",
+		"FundPolicy": "ตราสารหนี้ที่มีกำหนดอายุโครงการ",
+		"FundDuration": "Closed_End",
+		"FundAuthorizedDate": "3/10/2016",
+		"FundStartDate": "3/16/2016",
+		"FundExpiryDate": "3/19/2018"
+	},
+	{
+		id: 178
+	},
+	{
+		id: 179
+	},
+	]
+}
