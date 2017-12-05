@@ -2,11 +2,6 @@
 {
 	"posts": 	[
 	{
-		"FundID": "1",
-		"FundCode": "ANANT",
-		"FundName": "กองทุนเปิดอนันตทรัพย์"
-	},
-	{
 		"FundID": "2",
 		"FundCode": "ASP-LTF",
 		"FundName": "กองทุนเปิดแอสเซทพลัสหุ้นระยะยาว"
@@ -110,6 +105,166 @@
 		"FundID": "22",
 		"FundCode": "ASP-SIF3",
 		"FundName": "กองทุนเปิดแอสเซทพลัสทรัพย์มั่นคง 3"
+	},
+	{
+		"FundID": "23",
+		"FundCode": "ASP-GBF",
+		"FundName": "กองทุนเปิดแอสเซทพลัสพันธบัตรปันผล"
+	},
+	{
+		"FundID": "24",
+		"FundCode": "ASP-DI2",
+		"FundName": "กองทุนเปิดแอสเซทพลัสตราสารหนี้ปันผล 2"
+	},
+	{
+		"FundID": "25",
+		"FundCode": "ASP-SIF1",
+		"FundName": "กองทุนเปิดแอสเซทพลัสทรัพย์มั่นคง 1"
+	},
+	{
+		"FundID": "26",
+		"FundCode": "ASP-CTF",
+		"FundName": "กองทุนเปิดแอสเซทพลัสทวีทรัพย์"
+	},
+	{
+		"FundID": "27",
+		"FundCode": "ASP-SIF4",
+		"FundName": "กองทุนเปิดแอสเซทพลัสทรัพย์มั่นคง 4"
+	},
+	{
+		"FundID": "28",
+		"FundCode": "GBF-3M1",
+		"FundName": "กองทุนเปิดพันธบัตรคุ้มครองเงินต้น 3M1"
+	},
+	{
+		"FundID": "29",
+		"FundCode": "ASP-NGF",
+		"FundName": "กองทุนเปิดแอสเซทพลัสนิปปอนโกรท"
+	},
+	{
+		"FundID": "30",
+		"FundCode": "ARF-12M1",
+		"FundName": "กองทุนเปิดพันธบัตรคุ้มครองเงินต้นคืนกำไร 12M1"
+	},
+	{
+		"FundID": "31",
+		"FundCode": "GBF-6M1",
+		"FundName": "กองทุนเปิดพันธบัตรคุ้มครองเงินต้น 6M1"
+	},
+	{
+		"FundID": "32",
+		"FundCode": "ASP-SIF5",
+		"FundName": "กองทุนเปิดแอสเซทพลัสทรัพย์มั่นคง 5"
+	},
+	{
+		"FundID": "33",
+		"FundCode": "ASP-GLTF",
+		"FundName": "กองทุนเปิดแอสเซทพลัสหุ้นระยะยาวทวีกำไร"
+	},
+	{
+		"FundID": "34",
+		"FundCode": "ASP-SIF6",
+		"FundName": "กองทุนเปิดแอสเซทพลัสทรัพย์มั่นคง 6"
+	},
+	{
+		"FundID": "35",
+		"FundCode": "SIF-6M1",
+		"FundName": "กองทุนเปิดแอสเซทพลัสทรัพย์มั่นคง 6M1"
+	},
+	{
+		"FundID": "36",
+		"FundCode": "SIF-12M3",
+		"FundName": "กองทุนเปิดแอสเซทพลัสทรัพย์มั่นคง 12M3"
+	},
+	{
+		"FundID": "37",
+		"FundCode": "ASP-6M7",
+		"FundName": "กองทุนเปิดแอสเซทพลัสตราสารหนี้ 6M7"
+	},
+	{
+		"FundID": "38",
+		"FundCode": "FIF-FIXED6M8",
+		"FundName": "กองทุนเปิดเอฟไอเอฟตราสารหนี้ 6M8"
+	},
+	{
+		"FundID": "39",
+		"FundCode": "FIF-FIXED3M8",
+		"FundName": "กองทุนเปิดเอฟไอเอฟตราสารหนี้ 3M8"
+	},
+	{
+		"FundID": "40",
+		"FundCode": "FIF-FIXED3M9",
+		"FundName": "กองทุนเปิดเอฟไอเอฟตราสารหนี้ 3M9"
+	},
+	{
+		"FundID": "41",
+		"FundCode": "FIF-FIXED3M10",
+		"FundName": "กองทุนเปิดเอฟไอเอฟตราสารหนี้ 3M10"
+	},
+	{
+		"FundID": "42",
+		"FundCode": "ASP-ASIAN",
+		"FundName": "กองทุนเปิดแอสเซทพลัสเอเชี่ยนสเปเชียลซิททูเอชั่นส์"
+	},
+	{
+		"FundID": "43",
+		"FundCode": "FIF-FIXED6M11",
+		"FundName": "กองทุนเปิดเอฟไอเอฟตราสารหนี้ 6M11"
+	},
+	{
+		"FundID": "44",
+		"FundCode": "ASP-BRIC",
+		"FundName": "กองทุนเปิดแอสเซทพลัสบริค"
+	},
+	{
+		"FundID": "45",
+		"FundCode": "SVAF",
+		"FundName": "กองทุนเปิดสตรัคเจอร์แวลูเอเซีย"
+	},
+	{
+		"FundID": "46",
+		"FundCode": "ASP-P6M2",
+		"FundName": "กองทุนเปิดแอสเซทพลัสพรีเมี่ยม 6M2"
+	},
+	{
+		"FundID": "47",
+		"FundCode": "ASP-PREMIER",
+		"FundName": "กองทุนเปิดแอสเซทพลัสพรีเมียร์"
+	},
+	{
+		"FundID": "48",
+		"FundCode": "FIF-FIXED12M9",
+		"FundName": "กองทุนเปิดเอฟไอเอฟตราสารหนี้ 12M9"
+	},
+	{
+		"FundID": "49",
+		"FundCode": "ASP-PDI",
+		"FundName": "กองทุนเปิดแอสเซทพลัสพรีเมี่ยมปันผล"
+	},
+	{
+		"FundID": "50",
+		"FundCode": "ASP-P6M3",
+		"FundName": "กองทุนเปิดแอสเซทพลัสพรีเมี่ยม 6M3"
+	},
+	{
+		"FundID": "51",
+		"FundCode": "ASP-P12M",
+		"FundName": "กองทุนเปิดแอสเซทพลัสพรีเมี่ยม 12M"
+	},
+	{
+		"FundID": "52",
+		"FundCode": "FIF-FIXED6M4",
+		"FundName": "กองทุนเปิดเอฟไอเอฟตราสารหนี้ 6M4"
+	},
+	{
+		"FundID": "53",
+		"FundCode": "FIF-FIXED6M",
+		"FundName": "กองทุนเปิดเอฟไอเอฟตราสารหนี้ 6M"
+	},
+	{
+		"FundID": "54",
+		"FundCode": "FIF-FIXED6M2",
+		"FundName": "กองทุนเปิดเอฟไอเอฟตราสารหนี้ 6M2"
 	}
 ]
 }	
