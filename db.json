@@ -1,4 +1,7 @@
 {
+	"noti": [
+		{ "id": "20180110144201": "text": "Interested?": "Fund ABCD Sale at 50%, Interested?": "Sale 50%" }
+	],
 	"posts": [{
 		"FundID": "2",
 		"FundCode": "ASP-LTF",
